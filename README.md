@@ -84,7 +84,7 @@ firebase deploy --only functions
 ```
 
 ### Developed By
-Haikal [GitHub](https://github.com/mhdhaikalll) | [LinkedIn](https://www.linkedin.com/in/mhdhaikaliman/)
-Majdiah [GitHub](#) | [LinkedIn]()
-Inas [GitHub](#) | [LinkedIn]()
+Haikal [GitHub](https://github.com/mhdhaikalll) | [LinkedIn](https://www.linkedin.com/in/mhdhaikaliman/) </br>
+Majdiah [GitHub](#) | [LinkedIn]() </br>
+Inas [GitHub](#) | [LinkedIn]() </br>
 Qistina [GitHub](#) | [LinkedIn]()
